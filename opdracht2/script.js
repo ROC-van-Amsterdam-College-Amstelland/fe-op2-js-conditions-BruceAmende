@@ -6,10 +6,15 @@
 
 /* jouw code hieronder-->> */
 
-var getal1 = 
-var ingevuld_getal = 18;
+var getal1 = 30
+var getal2 = 12
+
+
+
 
 document.getElementById("leeftijd").value;
+document.getElementById("leeftijd").innerHTML;
+document.getElementById("leeftijd").style.backgroundColor = "green";
 
 
 
